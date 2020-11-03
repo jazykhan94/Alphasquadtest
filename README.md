@@ -1,3 +1,2 @@
-## User Authentication With Passport and Express 4
-
-View the blog post here: http://mherman.org/blog/2015/01/31/local-authentication-with-passport-and-express-4
+As per Boss Qamar Khan told i have uploaded all the files on github.
+I have removed the node_mudule folder. Anyone who wants to have all dependencies installed there is package.json file you can look into and install.
